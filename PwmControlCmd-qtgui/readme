@@ -1,0 +1,4 @@
+#PwmControlCmd-qtgui
+
+This folder is a qt project. which project can generate a command for controlling Rplidar-Pwm board. 
+Generally, It can control several lidars together. But I just test for 2 devices.
