@@ -1,0 +1,18 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\bin\Release\LidarSerial.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\bin\Release\LidarSerial.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\Serial.Form1.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\LidarSerial.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\LidarSerial.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\LidarSerial.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\LidarSerial.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Release\LidarSerial.pdb
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\bin\Release\LidarSerial.exe.config
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\bin\Release\LidarSerial.exe
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\bin\Release\LidarSerial.pdb
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.csprojResolveAssemblyReference.cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\Serial.Form1.resources
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.Properties.Resources.resources
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.csproj.GenerateResource.Cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.csproj.CoreCompileInputs.cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.exe
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarSerial\Serial\obj\Release\LidarSerial.pdb

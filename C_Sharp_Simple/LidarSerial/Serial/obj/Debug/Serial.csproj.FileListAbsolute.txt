@@ -1,0 +1,10 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\bin\Debug\Serial.exe.config
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\bin\Debug\Serial.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\bin\Debug\Serial.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.Form1.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.exe
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\Serial\Serial\obj\Debug\Serial.csprojResolveAssemblyReference.cache

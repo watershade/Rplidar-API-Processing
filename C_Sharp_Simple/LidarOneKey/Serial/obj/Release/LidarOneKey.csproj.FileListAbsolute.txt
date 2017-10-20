@@ -1,0 +1,10 @@
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\bin\Release\LidarOneKey.exe.config
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\bin\Release\LidarOneKey.exe
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\bin\Release\LidarOneKey.pdb
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarOneKey.csprojResolveAssemblyReference.cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\Serial.Form1.resources
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarSerial.Properties.Resources.resources
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarOneKey.csproj.GenerateResource.Cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarOneKey.csproj.CoreCompileInputs.cache
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarOneKey.exe
+E:\Workspace\FunProject\RPLIDAR A2\buffer\LidarOneKey\Serial\obj\Release\LidarOneKey.pdb
